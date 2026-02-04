@@ -1,0 +1,12 @@
+Thanks for visiting The Vault at Vimm's Lair.
+
+	vimm.net
+
+This Game Boy media is verified by No-Intro.
+
+Yoshi (USA).gb
+CRC:   f2f4bcca
+MD5:   a8804c8514619cc918960c2008ed65d1
+SHA-1: 1b6e41c2270ce67e6fe15cc4977ef2debdd6e6ce
+
+Date:  2024-10-03 14:08:22
